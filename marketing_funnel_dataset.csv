@@ -1,0 +1,301 @@
+User_ID,Channel,Region,Device,Visited_Website,Signed_Up,Lead_Qualified,Demo_or_Trial,Converted_to_Customer
+1,Paid Ads,North,Mobile,1,1,0,0,0
+2,Referral,West,Mobile,1,0,0,0,0
+3,Social Media,West,Desktop,1,1,0,0,0
+4,Social Media,South,Tablet,1,1,0,0,0
+5,Organic Search,East,Desktop,1,1,0,0,0
+6,Organic Search,East,Desktop,1,0,0,0,0
+7,Organic Search,East,Desktop,1,1,0,0,0
+8,Email,West,Desktop,1,1,1,1,1
+9,Social Media,West,Desktop,1,0,0,0,0
+10,Social Media,West,Desktop,1,0,0,0,0
+11,Organic Search,North,Desktop,1,1,0,0,0
+12,Referral,South,Mobile,1,1,0,0,0
+13,Email,West,Mobile,1,1,0,0,0
+14,Organic Search,South,Mobile,1,0,0,0,0
+15,Organic Search,South,Tablet,1,1,1,0,0
+16,Organic Search,East,Desktop,1,1,1,1,0
+17,Paid Ads,North,Desktop,1,0,0,0,0
+18,Paid Ads,West,Mobile,1,0,0,0,0
+19,Paid Ads,East,Desktop,1,1,1,1,1
+20,Organic Search,East,Tablet,1,0,0,0,0
+21,Social Media,West,Desktop,1,1,1,0,0
+22,Organic Search,South,Tablet,1,0,0,0,0
+23,Organic Search,East,Desktop,1,1,1,0,0
+24,Paid Ads,South,Mobile,1,1,1,1,0
+25,Paid Ads,North,Desktop,1,0,0,0,0
+26,Email,South,Tablet,1,1,1,0,0
+27,Organic Search,North,Desktop,1,1,1,1,1
+28,Paid Ads,South,Mobile,1,0,0,0,0
+29,Social Media,East,Tablet,1,0,0,0,0
+30,Organic Search,East,Desktop,1,1,0,0,0
+31,Social Media,North,Mobile,1,1,0,0,0
+32,Organic Search,West,Mobile,1,1,1,1,0
+33,Organic Search,North,Desktop,1,1,1,0,0
+34,Referral,North,Mobile,1,1,0,0,0
+35,Referral,South,Mobile,1,1,0,0,0
+36,Email,South,Tablet,1,0,0,0,0
+37,Paid Ads,North,Desktop,1,1,1,0,0
+38,Organic Search,East,Desktop,1,1,1,1,1
+39,Social Media,South,Tablet,1,1,0,0,0
+40,Paid Ads,West,Mobile,1,0,0,0,0
+41,Organic Search,South,Desktop,1,1,0,0,0
+42,Paid Ads,South,Mobile,1,1,1,1,1
+43,Organic Search,West,Desktop,1,1,1,1,1
+44,Referral,North,Desktop,1,1,1,1,1
+45,Organic Search,West,Desktop,1,1,1,1,1
+46,Social Media,North,Desktop,1,0,0,0,0
+47,Paid Ads,North,Mobile,1,0,0,0,0
+48,Paid Ads,North,Desktop,1,1,1,1,1
+49,Paid Ads,West,Tablet,1,1,0,0,0
+50,Organic Search,North,Tablet,1,0,0,0,0
+51,Referral,East,Mobile,1,0,0,0,0
+52,Email,West,Desktop,1,1,0,0,0
+53,Referral,East,Desktop,1,1,0,0,0
+54,Email,North,Mobile,1,1,0,0,0
+55,Social Media,South,Mobile,1,1,0,0,0
+56,Referral,North,Desktop,1,0,0,0,0
+57,Organic Search,East,Tablet,1,0,0,0,0
+58,Organic Search,East,Mobile,1,0,0,0,0
+59,Organic Search,West,Tablet,1,1,1,1,0
+60,Paid Ads,South,Mobile,1,1,1,0,0
+61,Paid Ads,West,Mobile,1,0,0,0,0
+62,Organic Search,East,Desktop,1,0,0,0,0
+63,Email,North,Tablet,1,1,1,1,0
+64,Paid Ads,South,Mobile,1,0,0,0,0
+65,Organic Search,North,Desktop,1,0,0,0,0
+66,Paid Ads,North,Desktop,1,1,1,0,0
+67,Organic Search,South,Desktop,1,1,1,1,1
+68,Email,West,Mobile,1,1,0,0,0
+69,Organic Search,North,Tablet,1,1,1,1,0
+70,Referral,East,Desktop,1,1,1,0,0
+71,Email,North,Mobile,1,0,0,0,0
+72,Organic Search,South,Desktop,1,1,0,0,0
+73,Organic Search,South,Tablet,1,1,0,0,0
+74,Email,South,Mobile,1,1,0,0,0
+75,Social Media,West,Mobile,1,1,1,0,0
+76,Social Media,North,Desktop,1,0,0,0,0
+77,Email,West,Desktop,1,1,1,1,1
+78,Organic Search,West,Desktop,1,1,1,0,0
+79,Paid Ads,South,Desktop,1,0,0,0,0
+80,Organic Search,South,Mobile,1,1,1,0,0
+81,Email,West,Mobile,1,1,1,1,1
+82,Social Media,North,Tablet,1,1,1,1,0
+83,Paid Ads,East,Tablet,1,1,1,1,1
+84,Organic Search,West,Mobile,1,1,1,0,0
+85,Paid Ads,North,Mobile,1,1,1,1,1
+86,Paid Ads,South,Tablet,1,1,1,1,0
+87,Social Media,South,Mobile,1,0,0,0,0
+88,Social Media,North,Desktop,1,1,1,0,0
+89,Email,East,Desktop,1,1,1,1,1
+90,Paid Ads,South,Desktop,1,1,1,0,0
+91,Organic Search,South,Tablet,1,1,0,0,0
+92,Social Media,South,Mobile,1,1,1,1,0
+93,Email,North,Desktop,1,1,1,0,0
+94,Social Media,West,Mobile,1,0,0,0,0
+95,Email,South,Mobile,1,1,1,0,0
+96,Paid Ads,West,Desktop,1,1,0,0,0
+97,Paid Ads,East,Desktop,1,1,0,0,0
+98,Paid Ads,South,Mobile,1,0,0,0,0
+99,Organic Search,South,Desktop,1,1,0,0,0
+100,Organic Search,East,Mobile,1,1,0,0,0
+101,Organic Search,South,Desktop,1,1,1,1,1
+102,Social Media,West,Mobile,1,0,0,0,0
+103,Paid Ads,North,Mobile,1,1,1,0,0
+104,Paid Ads,West,Mobile,1,0,0,0,0
+105,Referral,North,Mobile,1,1,1,1,0
+106,Organic Search,North,Desktop,1,1,0,0,0
+107,Paid Ads,West,Desktop,1,1,1,0,0
+108,Email,West,Desktop,1,1,0,0,0
+109,Organic Search,West,Mobile,1,1,0,0,0
+110,Organic Search,West,Mobile,1,1,1,0,0
+111,Organic Search,East,Mobile,1,0,0,0,0
+112,Organic Search,South,Desktop,1,1,1,0,0
+113,Referral,North,Desktop,1,1,1,1,1
+114,Email,West,Desktop,1,1,1,0,0
+115,Social Media,West,Desktop,1,1,1,0,0
+116,Email,West,Mobile,1,1,0,0,0
+117,Email,East,Desktop,1,1,0,0,0
+118,Organic Search,West,Desktop,1,1,1,1,1
+119,Email,West,Tablet,1,0,0,0,0
+120,Paid Ads,West,Desktop,1,0,0,0,0
+121,Email,South,Desktop,1,1,1,1,1
+122,Email,East,Mobile,1,1,0,0,0
+123,Paid Ads,West,Desktop,1,1,1,0,0
+124,Organic Search,North,Mobile,1,1,1,1,0
+125,Organic Search,North,Mobile,1,1,1,1,0
+126,Paid Ads,North,Tablet,1,1,1,0,0
+127,Email,East,Desktop,1,0,0,0,0
+128,Email,East,Tablet,1,1,1,0,0
+129,Organic Search,North,Desktop,1,1,0,0,0
+130,Paid Ads,West,Desktop,1,1,1,1,0
+131,Paid Ads,East,Desktop,1,1,0,0,0
+132,Organic Search,North,Tablet,1,1,1,1,0
+133,Organic Search,North,Desktop,1,1,1,1,1
+134,Paid Ads,West,Desktop,1,1,0,0,0
+135,Referral,South,Mobile,1,0,0,0,0
+136,Paid Ads,East,Desktop,1,1,0,0,0
+137,Paid Ads,West,Desktop,1,1,1,1,0
+138,Social Media,North,Desktop,1,1,1,0,0
+139,Paid Ads,North,Desktop,1,1,1,1,1
+140,Referral,West,Desktop,1,1,1,1,1
+141,Referral,East,Desktop,1,0,0,0,0
+142,Organic Search,South,Mobile,1,0,0,0,0
+143,Paid Ads,South,Desktop,1,0,0,0,0
+144,Paid Ads,North,Desktop,1,1,1,1,0
+145,Organic Search,East,Mobile,1,1,1,1,1
+146,Organic Search,South,Desktop,1,1,0,0,0
+147,Social Media,East,Mobile,1,1,0,0,0
+148,Paid Ads,East,Desktop,1,0,0,0,0
+149,Organic Search,North,Desktop,1,1,1,1,1
+150,Organic Search,South,Desktop,1,1,1,0,0
+151,Referral,West,Desktop,1,1,0,0,0
+152,Organic Search,North,Desktop,1,1,1,1,0
+153,Organic Search,South,Desktop,1,1,1,1,1
+154,Paid Ads,South,Desktop,1,1,1,1,1
+155,Referral,South,Desktop,1,1,1,1,1
+156,Organic Search,South,Desktop,1,0,0,0,0
+157,Social Media,South,Desktop,1,0,0,0,0
+158,Email,East,Desktop,1,1,1,1,1
+159,Organic Search,North,Desktop,1,1,1,1,1
+160,Social Media,East,Mobile,1,1,0,0,0
+161,Paid Ads,West,Desktop,1,1,1,0,0
+162,Social Media,South,Mobile,1,1,1,0,0
+163,Social Media,North,Mobile,1,1,1,0,0
+164,Paid Ads,South,Desktop,1,1,0,0,0
+165,Organic Search,North,Mobile,1,1,1,1,1
+166,Email,East,Tablet,1,1,1,1,0
+167,Paid Ads,North,Desktop,1,1,1,1,1
+168,Organic Search,West,Desktop,1,0,0,0,0
+169,Organic Search,West,Mobile,1,0,0,0,0
+170,Social Media,North,Mobile,1,1,1,0,0
+171,Social Media,North,Desktop,1,0,0,0,0
+172,Organic Search,North,Desktop,1,1,1,0,0
+173,Paid Ads,North,Desktop,1,0,0,0,0
+174,Organic Search,West,Desktop,1,0,0,0,0
+175,Social Media,South,Mobile,1,1,1,1,0
+176,Organic Search,North,Desktop,1,1,1,1,1
+177,Social Media,North,Desktop,1,1,1,1,1
+178,Paid Ads,West,Mobile,1,1,1,1,0
+179,Referral,West,Desktop,1,1,0,0,0
+180,Organic Search,East,Desktop,1,1,1,1,1
+181,Paid Ads,North,Mobile,1,1,0,0,0
+182,Organic Search,East,Mobile,1,0,0,0,0
+183,Referral,West,Desktop,1,0,0,0,0
+184,Email,West,Desktop,1,1,1,1,0
+185,Organic Search,South,Desktop,1,1,1,1,0
+186,Social Media,North,Desktop,1,1,1,1,0
+187,Email,East,Desktop,1,1,0,0,0
+188,Social Media,West,Desktop,1,0,0,0,0
+189,Paid Ads,West,Desktop,1,1,0,0,0
+190,Organic Search,East,Desktop,1,1,1,1,1
+191,Organic Search,South,Desktop,1,1,0,0,0
+192,Email,West,Desktop,1,1,0,0,0
+193,Referral,North,Desktop,1,1,0,0,0
+194,Social Media,West,Desktop,1,0,0,0,0
+195,Paid Ads,North,Desktop,1,1,0,0,0
+196,Paid Ads,East,Mobile,1,1,1,1,1
+197,Social Media,North,Mobile,1,1,1,0,0
+198,Email,East,Mobile,1,0,0,0,0
+199,Email,North,Mobile,1,0,0,0,0
+200,Email,East,Desktop,1,1,1,1,0
+201,Social Media,North,Desktop,1,1,0,0,0
+202,Organic Search,South,Desktop,1,1,1,1,0
+203,Organic Search,North,Mobile,1,1,1,0,0
+204,Email,North,Mobile,1,0,0,0,0
+205,Social Media,South,Desktop,1,1,1,1,0
+206,Organic Search,West,Desktop,1,1,1,1,1
+207,Organic Search,West,Desktop,1,1,1,1,0
+208,Social Media,North,Desktop,1,1,1,1,1
+209,Organic Search,South,Mobile,1,1,1,0,0
+210,Organic Search,North,Mobile,1,0,0,0,0
+211,Paid Ads,East,Desktop,1,1,1,1,0
+212,Social Media,East,Tablet,1,1,0,0,0
+213,Social Media,North,Mobile,1,1,1,0,0
+214,Organic Search,West,Desktop,1,1,1,1,1
+215,Social Media,West,Desktop,1,1,1,0,0
+216,Organic Search,North,Desktop,1,1,1,1,0
+217,Paid Ads,North,Desktop,1,0,0,0,0
+218,Social Media,East,Desktop,1,1,1,1,1
+219,Social Media,West,Desktop,1,1,1,1,1
+220,Email,North,Desktop,1,1,1,1,0
+221,Social Media,East,Desktop,1,1,1,1,0
+222,Social Media,West,Mobile,1,0,0,0,0
+223,Organic Search,South,Desktop,1,0,0,0,0
+224,Paid Ads,East,Desktop,1,1,1,0,0
+225,Organic Search,West,Desktop,1,1,1,1,0
+226,Organic Search,West,Tablet,1,1,1,1,1
+227,Referral,East,Desktop,1,1,1,1,0
+228,Paid Ads,South,Desktop,1,1,0,0,0
+229,Email,East,Tablet,1,1,1,1,1
+230,Social Media,West,Mobile,1,1,1,1,0
+231,Email,North,Mobile,1,1,1,1,0
+232,Paid Ads,North,Desktop,1,0,0,0,0
+233,Social Media,East,Desktop,1,1,1,1,0
+234,Paid Ads,West,Mobile,1,1,1,1,0
+235,Organic Search,North,Tablet,1,0,0,0,0
+236,Social Media,West,Mobile,1,1,1,1,1
+237,Organic Search,East,Mobile,1,1,1,0,0
+238,Organic Search,North,Desktop,1,1,1,1,1
+239,Social Media,West,Mobile,1,1,1,1,0
+240,Organic Search,North,Desktop,1,0,0,0,0
+241,Referral,East,Desktop,1,0,0,0,0
+242,Referral,West,Desktop,1,1,1,0,0
+243,Referral,North,Desktop,1,1,1,1,0
+244,Paid Ads,East,Desktop,1,1,1,1,1
+245,Organic Search,North,Desktop,1,1,0,0,0
+246,Referral,North,Mobile,1,1,1,1,0
+247,Paid Ads,South,Desktop,1,0,0,0,0
+248,Referral,South,Mobile,1,1,1,1,1
+249,Referral,East,Desktop,1,0,0,0,0
+250,Email,South,Desktop,1,1,1,0,0
+251,Organic Search,East,Desktop,1,1,1,1,0
+252,Paid Ads,South,Desktop,1,1,0,0,0
+253,Email,North,Desktop,1,0,0,0,0
+254,Paid Ads,East,Desktop,1,0,0,0,0
+255,Organic Search,East,Desktop,1,0,0,0,0
+256,Social Media,North,Tablet,1,1,0,0,0
+257,Referral,East,Desktop,1,1,1,1,0
+258,Social Media,East,Mobile,1,0,0,0,0
+259,Social Media,South,Desktop,1,1,1,1,1
+260,Organic Search,East,Mobile,1,1,0,0,0
+261,Social Media,West,Mobile,1,1,1,0,0
+262,Referral,North,Mobile,1,0,0,0,0
+263,Organic Search,South,Desktop,1,0,0,0,0
+264,Paid Ads,South,Desktop,1,1,0,0,0
+265,Email,West,Desktop,1,0,0,0,0
+266,Social Media,North,Tablet,1,0,0,0,0
+267,Social Media,North,Mobile,1,1,1,0,0
+268,Social Media,South,Tablet,1,1,1,0,0
+269,Paid Ads,East,Desktop,1,0,0,0,0
+270,Organic Search,South,Mobile,1,1,1,0,0
+271,Email,North,Tablet,1,1,1,1,0
+272,Email,West,Desktop,1,1,1,1,1
+273,Email,South,Desktop,1,0,0,0,0
+274,Referral,North,Mobile,1,0,0,0,0
+275,Paid Ads,South,Mobile,1,0,0,0,0
+276,Paid Ads,East,Mobile,1,1,1,0,0
+277,Email,South,Desktop,1,0,0,0,0
+278,Social Media,South,Mobile,1,0,0,0,0
+279,Social Media,North,Desktop,1,1,1,1,0
+280,Email,North,Desktop,1,0,0,0,0
+281,Email,North,Desktop,1,1,1,0,0
+282,Paid Ads,South,Mobile,1,1,1,1,0
+283,Paid Ads,East,Mobile,1,1,1,0,0
+284,Organic Search,West,Desktop,1,1,0,0,0
+285,Social Media,West,Desktop,1,1,0,0,0
+286,Organic Search,North,Mobile,1,1,1,1,0
+287,Paid Ads,North,Desktop,1,1,1,1,1
+288,Paid Ads,South,Mobile,1,0,0,0,0
+289,Organic Search,West,Desktop,1,1,1,0,0
+290,Social Media,North,Desktop,1,1,1,0,0
+291,Organic Search,East,Desktop,1,1,1,1,1
+292,Organic Search,East,Desktop,1,0,0,0,0
+293,Email,North,Mobile,1,1,0,0,0
+294,Paid Ads,North,Desktop,1,1,1,1,0
+295,Organic Search,West,Desktop,1,0,0,0,0
+296,Paid Ads,West,Mobile,1,1,1,0,0
+297,Email,South,Desktop,1,1,1,1,1
+298,Organic Search,West,Desktop,1,1,1,0,0
+299,Social Media,East,Tablet,1,0,0,0,0
+300,Organic Search,East,Mobile,1,1,1,0,0
